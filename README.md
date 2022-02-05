@@ -6,7 +6,7 @@
 ### Code
 [Pull Request]()
 
-### Overview
+### Lab Overview
 
 Build a web scraper that can automate the process of manually using the site.
 
