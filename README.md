@@ -4,7 +4,7 @@
 - Arthur Lozano
 
 ### Code
-[Pull Request]()
+[Pull Request](https://github.com/Arthur-Lozano/web-scraper/pull/1)
 
 ### Lab Overview
 
